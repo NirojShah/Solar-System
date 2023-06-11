@@ -1,0 +1,358 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.one{
+    width: 2100px;
+    height: 2100px;
+    border-radius: 50%;
+    border: 1px solid white;
+
+    animation-name: rotate;
+    animation-timing-function: linear;
+    animation-duration: 25s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+}
+
+.onee{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: relative;
+    top: 750px;
+
+    animation-name: rotate1;
+    animation-timing-function: linear;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+    background: url("./Images/neptune.png");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.two{
+    width: 1850px;
+    height: 1850px;
+    border-radius: 100%;
+    border: 1px solid white;
+    position: absolute;
+
+
+    animation-name: rotate;
+    animation-timing-function: linear;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+}
+
+.twoe{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    position: relative;
+    top: 550px;
+
+
+    animation-name: rotate1;
+    animation-timing-function: linear;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+
+    background: url("./Images/uranus.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.three{
+    width: 1600px;
+    height: 1600px;
+    border-radius: 100%;
+    border: 1px solid white;
+    position: absolute;
+
+
+
+    animation-name: rotate;
+    animation-timing-function: linear;
+    animation-duration: 18s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+}
+
+.threee{
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    position: relative;
+    top: 430px;
+
+
+    animation-name: rotate1;
+    animation-timing-function: linear;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+
+
+    background: url("./Images/saturn2.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.four{
+    width: 1280px;
+    height: 1280px;
+    border-radius: 100%;
+    border: 1px solid white;
+    position: absolute;
+
+
+
+    animation-name: rotate;
+    animation-timing-function: linear;
+    animation-duration: 14s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+}
+
+.foure{
+    width: 130px;
+    height: 130px;
+    border-radius: 100%;
+    position: relative;
+    top: 300px;
+    right: 20px;
+
+
+
+    animation-name: rotate1;
+    animation-timing-function: linear;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+
+    background: url("./Images/jupiter.png");
+    background-position: center;
+    background-size: cover;
+}
+.five{
+    width: 950px;
+    height: 950px;
+    border-radius: 100%;
+    border: 1px solid white;
+    position: absolute;
+
+
+
+    animation-name: rotate;
+    animation-timing-function: linear;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+}
+
+.fivee{
+    width: 140px;
+    height: 140px;
+    border-radius: 100%;
+    position: relative;
+    top: 180px;
+    right: 30px;
+
+
+
+    animation-name: rotate1;
+    animation-timing-function: linear;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+
+    background: url("./Images/mars.png");
+    background-position: center;
+    background-size: cover;
+    
+}
+.six{
+    width: 650px;
+    height: 650px;
+    border-radius: 100%;
+    border: 1px solid white;
+    position: absolute;
+
+
+    animation-name: rotate;
+    animation-timing-function: linear;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+}
+
+.sixe{
+    width: 110px;
+    height: 110px;
+    border-radius: 100%;
+    position: relative;
+    top: 120px;
+    right: 30px;
+
+
+
+
+    animation-name: rotate1;
+    animation-timing-function: linear;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+
+    background: url("./Images/earth.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.seven{
+    width: 450px;
+    height: 450px;
+    border-radius: 100%;
+    border: 1px solid white;
+    position: absolute;
+
+    animation-name: rotate;
+    animation-timing-function: linear;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+}
+
+.sevene{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    position: relative;
+    top: 80px;
+    right: 20px;
+
+
+
+    animation-name: rotate1;
+    animation-timing-function: linear;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+
+
+
+    background: url("./Images/ven.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.eight{
+    width: 280px;
+    height: 280px;
+    border-radius: 100%;
+    border: 1px solid white;
+    position: absolute;
+
+    animation-name: rotate;
+    animation-timing-function: linear;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+}
+
+.eighte{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: relative;
+    top: 80px;
+    right: 30px;
+
+
+
+
+    animation-name: rotate1;
+    animation-timing-function: linear;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-play-state: running;
+
+
+
+    background: url("./Images/mercury.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.nine{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    position: absolute;
+    box-shadow: 2px 5px 10px orange;
+
+
+    background-image: url("./Images/sun.png");
+    background-position: center;
+    background-size: contain;
+}
+
+
+@keyframes rotate {
+    100%{
+        transform: rotate(359deg);
+    }
+    
+}
+
+@keyframes rotate1 {
+    100%{
+        transform: rotate(359deg);
+    }
+    
+}
