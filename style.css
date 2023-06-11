@@ -42,7 +42,7 @@
     animation-direction: normal;
     animation-play-state: running;
 
-    background: url("./Images/neptune.png");
+    background: url("./neptune.png");
     background-position: center;
     background-size: cover;
 
@@ -81,7 +81,7 @@
     animation-play-state: running;
 
 
-    background: url("./Images/uranus.png");
+    background: url("./uranus.png");
     background-position: center;
     background-size: cover;
 }
@@ -121,7 +121,7 @@
 
 
 
-    background: url("./Images/saturn2.png");
+    background: url("./saturn2.png");
     background-position: center;
     background-size: cover;
 }
@@ -162,7 +162,7 @@
     animation-play-state: running;
 
 
-    background: url("./Images/jupiter.png");
+    background: url("./jupiter.png");
     background-position: center;
     background-size: cover;
 }
@@ -202,7 +202,7 @@
     animation-play-state: running;
 
 
-    background: url("./Images/mars.png");
+    background: url("./mars.png");
     background-position: center;
     background-size: cover;
     
@@ -243,7 +243,7 @@
     animation-play-state: running;
 
 
-    background: url("./Images/earth.png");
+    background: url("./earth.png");
     background-position: center;
     background-size: cover;
 }
@@ -284,7 +284,7 @@
 
 
 
-    background: url("./Images/ven.png");
+    background: url("./ven.png");
     background-position: center;
     background-size: cover;
 }
@@ -324,7 +324,7 @@
 
 
 
-    background: url("./Images/mercury.png");
+    background: url("./mercury.png");
     background-position: center;
     background-size: cover;
 }
@@ -337,7 +337,7 @@
     box-shadow: 2px 5px 10px orange;
 
 
-    background-image: url("./Images/sun.png");
+    background-image: url("./sun.png");
     background-position: center;
     background-size: contain;
 }
